@@ -31,3 +31,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ### References   
 * [How to add bootstrap 5 in Angular 14? - YouTube](https://www.youtube.com/watch?v=6rbG4Yk1l4M)
 * [Angular Library: Learn How To Create And Use It In Your App](https://www.youtube.com/watch?v=hIEbJkP1M5E)
+* [Installing and using jQuery in Angular Application](https://www.youtube.com/watch?v=jIVCVAthBEo)
+
+### Branches
+
+* Main Branch - Prototype functionality before work on project
+> 1. Installing Bootstrap 5 
+> 2. Creating library files
+> 3. 
+- 
