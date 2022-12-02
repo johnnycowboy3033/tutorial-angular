@@ -40,3 +40,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > 2. Creating library files
 > 3. 
 - 
+* [Installing and using jQuery in Angular Application](https://www.youtube.com/watch?v=jIVCVAthBEo)
+
+### Branches
+
+* Main Branch - Prototype functionality before work on project
+> 1. Installing Bootstrap 5 
+> 2. Creating library files
+> 3. 
+- 
