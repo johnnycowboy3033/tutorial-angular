@@ -14,6 +14,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+To uses hot load to continues rebuild a library uses the following command `ng build <library name> --watch`
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
@@ -31,21 +32,14 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ### References   
 * [How to add bootstrap 5 in Angular 14? - YouTube](https://www.youtube.com/watch?v=6rbG4Yk1l4M)
 * [Angular Library: Learn How To Create And Use It In Your App](https://www.youtube.com/watch?v=hIEbJkP1M5E)
-* [Installing and using jQuery in Angular Application](https://www.youtube.com/watch?v=jIVCVAthBEo)
+* [Angular 8 : Adding and Using jQuery [Step by Step]](https://www.youtube.com/watch?v=YPBcy6LSxsg)
 
 ### Branches
 
 * Main Branch - Prototype functionality before work on project
 > 1. Installing Bootstrap 5 
 > 2. Creating library files
-> 3. 
-- 
-* [Installing and using jQuery in Angular Application](https://www.youtube.com/watch?v=jIVCVAthBEo)
+> 3. Installing JQuery
 
-### Branches
 
-* Main Branch - Prototype functionality before work on project
-> 1. Installing Bootstrap 5 
-> 2. Creating library files
-> 3. 
-- 
+
