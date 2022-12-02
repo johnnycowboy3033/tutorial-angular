@@ -29,7 +29,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## Developers Notes
-### References   
+### References
+* [Angular Tutorial for Beginners: Learn Angular & TypeScript](https://www.youtube.com/watch?v=k5E2AVpwsko)
+
+### References (Prototype functionality)
 * [How to add bootstrap 5 in Angular 14? - YouTube](https://www.youtube.com/watch?v=6rbG4Yk1l4M)
 * [Angular Library: Learn How To Create And Use It In Your App](https://www.youtube.com/watch?v=hIEbJkP1M5E)
 * [Angular 8 : Adding and Using jQuery [Step by Step]](https://www.youtube.com/watch?v=YPBcy6LSxsg)
