@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Developers Notes
+### References
+* [Angular Crash Course - Traversy Media](https://www.youtube.com/watch?v=3dHNOWTI7H8)
+* [Angular 12 Crash Course - 2021 - Become Angular Developer in 3 Hours - Awais Mira](https://www.youtube.com/watch?v=LA_v8isNp5E)
+
+
+### Branch
+
+* Traversy Branch - Watch and coding the Angular Crash Course by Traversy Media  
+> 1. Installing Angular (8:23)    
+> 2. Creating new project (8:31)   
