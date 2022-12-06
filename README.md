@@ -29,16 +29,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## Developers Notes
-### References
-* [Angular Crash Course - Traversy Media](https://www.youtube.com/watch?v=3dHNOWTI7H8)
-* [Angular 12 Crash Course - 2021 - Become Angular Developer in 3 Hours - Awais Mira](https://www.youtube.com/watch?v=LA_v8isNp5E)
 
 ### References (Prototype functionality)
 * [How to add bootstrap 5 in Angular 14? - YouTube](https://www.youtube.com/watch?v=6rbG4Yk1l4M)
 * [Angular Library: Learn How To Create And Use It In Your App](https://www.youtube.com/watch?v=hIEbJkP1M5E)
 * [Angular 8 : Adding and Using jQuery [Step by Step]](https://www.youtube.com/watch?v=YPBcy6LSxsg)
 
-### Branches
+### Branch
 
 * Main Branch - Prototype functionality before work on project
 > 1. Installing Bootstrap 5 
