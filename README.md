@@ -38,3 +38,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > 1. Installing Angular (8:23)    
 > 2. Creating new project (8:31)  
 > 3. Change the webpage page title (13:06)
+> 4. Create Hello World app (15:39)
