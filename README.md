@@ -44,6 +44,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > 1. Installing Bootstrap 5 
 > 2. Creating library files
 > 3. Installing JQuery
+>* Traversy Branch - Angular Crash Course 
+>* 
 
 
 
