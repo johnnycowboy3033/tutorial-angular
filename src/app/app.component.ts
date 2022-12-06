@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import * as $ from "jquery";
 
 @Component({
   selector: 'app-root',
@@ -8,13 +7,4 @@ import * as $ from "jquery";
 })
 export class AppComponent {
   title = 'practice-js';
-
-  name: string = 'Hello';
-
-
-
-  Testing(){
-    let nameForm= $("#txtName").val();
-    alert(nameForm);
-  }
 }

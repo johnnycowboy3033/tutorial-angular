@@ -40,6 +40,8 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
-.vscode/*
-.editorconfig
-package-lock.json
+/.editorconfig
+/.vscode/extensions.json
+/.vscode/launch.json
+/package-lock.json
+/.vscode/tasks.json
