@@ -36,4 +36,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 * Traversy Branch - Watch and coding the Angular Crash Course by Traversy Media  
 > 1. Installing Angular (8:23)    
-> 2. Creating new project (8:31)   
+> 2. Creating new project (8:31)  
+> 3. Change the webpage page title (13:06)
