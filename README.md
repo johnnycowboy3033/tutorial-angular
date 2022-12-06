@@ -41,3 +41,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > 4. Create Hello World app (15:39)
 > 5. Properties and Interpolation - Interpolation refers to embedding expressions into marked up text. By default, interpolation uses the double curly braces {{ and }} as delimiters. (18.22)
 > 6. Global Styles (19:00)
+> 7. Header Component (19:52)
