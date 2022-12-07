@@ -49,7 +49,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ### Screen Shots
 
-Figure 10.1       
+#### Figure 10.1       
 <img 
   src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/TaskTrackerScreenShot.png" 
   alt="Task Tracker Screen Shot" 
@@ -57,7 +57,7 @@ Figure 10.1
 
 ### Code Problems     
 
-Problem 11.1
+#### Problem 11.1     
 Compiled with problems:
 
 ERROR
