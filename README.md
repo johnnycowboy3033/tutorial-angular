@@ -52,4 +52,4 @@ Figure 10.1
 <img 
   src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/TaskTrackerScreenShot.png" 
   alt="Task Tracker Screen Shot" 
-  style="width:300px;height:100px;">     
+  style="width:425px;height:250px;">     
