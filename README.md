@@ -54,3 +54,23 @@ Figure 10.1
   src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/TaskTrackerScreenShot.png" 
   alt="Task Tracker Screen Shot" 
   style="width:425px;height:250px;">     
+
+### Code Problems     
+
+Problem 11.1
+Compiled with problems:
+
+ERROR
+
+src/app/components/task-item/task-item.component.ts:11:13 - error TS2564: Property 'task' has no initializer and is not definitely assigned in the constructor.
+
+11   @Input()  task: Task  ;
+
+SOLUTION:
+
+11   @Input()  task!: Task  ;
+
+The language feature is called Non-null assertion operator. when you add an exclamation mark after variable/property name, you’re telling to TypeScript that you’re certain that value is not null or undefined.
+
+[Use of the Exclamation Mark in TypeScript](https://www.syncfusion.com/blogs/post/exclamation-mark-in-typescript.aspx)
+
