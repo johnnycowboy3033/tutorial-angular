@@ -46,6 +46,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > 9. Mock Tasks and Task Interface 
 > 10. Tasks Component (34.24) - Figure 10.1
 > 11. Task Item Component (37:24)
+> 12. Angular Font Awesome (41:03) - [GitHub](https://github.com/FortAwesome/angular-fontawesome)
 
 ### Screen Shots
 
