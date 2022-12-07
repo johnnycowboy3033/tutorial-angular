@@ -44,3 +44,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > 7. Header Component (19:52)
 > 8. Button Component (23:26)
 > 9. Mock Tasks and Task Interface 
+> 10. Tasks Component (34.24)
+      <img 
+         src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/TaskTrackerScreenShot.png" 
+         alt="Task Tracker Screen Shot" 
+         style="width:200px;height:300px;"
+      >      
