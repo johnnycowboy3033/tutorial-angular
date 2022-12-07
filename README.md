@@ -43,3 +43,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > 6. Global Styles (19:00)
 > 7. Header Component (19:52)
 > 8. Button Component (23:26)
+> 9. Mock Tasks and Task Interface 
