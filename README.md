@@ -50,6 +50,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > 13. Task Service (44:40) Assignment Directly - ```ng generate service services/task ```
 > 14. Task Service (44:40) Observable JavaScript - represents a progressive way of handling events, async the activity, and multiple values in JavaScript. These observables are just the functions that throw values and Objects known as observers subscribe to such values that define the callback functions such as error (), next () and complete ().
 > 15. JSON Server Setup (52:27) - ```npm i json-server``` makes local server ``` server : json-server --watch db.json --port 5000``` which set in the package.json.  To run the server is ```npm run server```  see Figure 15.1
+> 16. Deleting Tasks (1:03)
 ### Screen Shots
 
 #### Figure 10.1       
