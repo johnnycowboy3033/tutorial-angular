@@ -64,9 +64,6 @@ src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/
 alt="Observable Subscribe"
 style="width:425px;height:250px;">
 
-
-
-
 ### Code Problems     
 
 #### Problem 11.1     
