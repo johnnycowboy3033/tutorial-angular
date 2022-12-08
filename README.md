@@ -36,20 +36,20 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 * Traversy Branch - Watch and coding the Angular Crash Course by Traversy Media  
 > 1. Installing Angular (8:23)    
-> 2. Creating new project (8:31)  
-> 3. Change the webpage page title (13:06)
+> 2. Creating new project (8:31)  ```ng new <PROJECT NAME> ```
+> 3. Change the webpage page title (13:06) ```ng serve  ``` to start server and ```ng test``` to start Karma test runner
 > 4. Create Hello World app (15:39)
 > 5. Properties and Interpolation - Interpolation refers to embedding expressions into marked up text. By default, interpolation uses the double curly braces {{ and }} as delimiters. (18.22)
 > 6. Global Styles (19:00)
-> 7. Header Component (19:52)
-> 8. Button Component (23:26)
+> 7. Header Component (19:52) ```ng generate component component/header ```
+> 8. Button Component (23:26) ```ng generate component component/button ```
 > 9. Mock Tasks and Task Interface 
-> 10. Tasks Component (34.24) - Figure 10.1
-> 11. Task Item Component (37:24)
+> 10. Tasks Component (34.24) - Figure 10.1 ```ng generate component component/tasks ```
+> 11. Task Item Component (37:24) ```ng generate component component/task-item```
 > 12. Angular Font Awesome (41:03) - Figure 12.1 [GitHub](https://github.com/FortAwesome/angular-fontawesome)
-> 13. Task Service (44:40) Assignment Directly - ng generate service services/task 
+> 13. Task Service (44:40) Assignment Directly - ```ng generate service services/task ```
 > 14. Task Service (44:40) Observable JavaScript - represents a progressive way of handling events, async the activity, and multiple values in JavaScript. These observables are just the functions that throw values and Objects known as observers subscribe to such values that define the callback functions such as error (), next () and complete ().
-
+> 15. JSON Server Setup (52:27) - ```npm i json-server``` makes local server
 ### Screen Shots
 
 #### Figure 10.1       
