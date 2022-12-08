@@ -47,6 +47,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > 10. Tasks Component (34.24) - Figure 10.1
 > 11. Task Item Component (37:24)
 > 12. Angular Font Awesome (41:03) - [GitHub](https://github.com/FortAwesome/angular-fontawesome)
+> 13. Task Service (44:40) Assignment Directly - ng generate service services/task 
+> 14. Task Service (44:40) Observable JavaScript - represents a progressive way of handling events, async the activity, and multiple values in JavaScript. These observables are just the functions that throw values and Objects known as observers subscribe to such values that define the callback functions such as error (), next () and complete ().
 
 ### Screen Shots
 
