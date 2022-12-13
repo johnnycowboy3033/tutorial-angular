@@ -30,7 +30,24 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ### References
 * [Angular Crash Course - Traversy Media](https://www.youtube.com/watch?v=3dHNOWTI7H8)
 * [Angular 12 Crash Course - 2021 - Become Angular Developer in 3 Hours - Awais Mira](https://www.youtube.com/watch?v=LA_v8isNp5E)
+* [How to Style Components Using Angular ngClass](https://www.pluralsight.com/guides/how-to-style-components-using-angular-ngclass?aid=7014Q000002DU4oQAG&promo=&oid=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=US_Dynamic_ProgrammingLanguages&utm_content=&utm_term=17331039103&gclid=CjwKCAiAv9ucBhBXEiwA6N8nYFDfe7p7VhcUMzA_lAwfPF51xVUuXhHISzesCv0toFMj2dBd-hTrqBoC9JQQAvD_BwE)
 
+### Getting Start
+Start the Application Server
+```
+$ ng serve 
+```
+
+Start the Test Runner
+
+```
+$ ng test 
+```
+
+Start the Database Server
+```
+$ json-server --watch db.json --port 5000
+```
 
 ### Branch
 
@@ -51,6 +68,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > 14. Task Service (44:40) Observable JavaScript - represents a progressive way of handling events, async the activity, and multiple values in JavaScript. These observables are just the functions that throw values and Objects known as observers subscribe to such values that define the callback functions such as error (), next () and complete ().
 > 15. JSON Server Setup (52:27) - ```npm i json-server``` makes local server ``` server : json-server --watch db.json --port 5000``` which set in the package.json.  To run the server is ```npm run server```  see Figure 15.1
 > 16. Deleting Tasks (1:03:59)
+> 17. Toggle Reminder (1:14:15) - ngClass is directive to conditionally apply one-to-many classes. When the users double clicks the tracker item the reminder will be turn off/on. 
 ### Screen Shots
 
 #### Figure 10.1       
