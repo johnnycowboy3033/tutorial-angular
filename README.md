@@ -33,6 +33,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * [How to Style Components Using Angular ngClass](https://www.pluralsight.com/guides/how-to-style-components-using-angular-ngclass?aid=7014Q000002DU4oQAG&promo=&oid=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=US_Dynamic_ProgrammingLanguages&utm_content=&utm_term=17331039103&gclid=CjwKCAiAv9ucBhBXEiwA6N8nYFDfe7p7VhcUMzA_lAwfPF51xVUuXhHISzesCv0toFMj2dBd-hTrqBoC9JQQAvD_BwE)
 
 ### Getting Start
+Start the Database Server
+```
+$ json-server --watch db.json --port 5000
+```
+
 Start the Application Server
 ```
 $ ng serve 
@@ -44,10 +49,7 @@ Start the Test Runner
 $ ng test 
 ```
 
-Start the Database Server
-```
-$ json-server --watch db.json --port 5000
-```
+
 
 ### Branch
 
@@ -58,10 +60,10 @@ $ json-server --watch db.json --port 5000
 > 4. Create Hello World app (15:39)
 > 5. Properties and Interpolation - Interpolation refers to embedding expressions into marked up text. By default, interpolation uses the double curly braces {{ and }} as delimiters. (18.22)
 > 6. Global Styles (19:00)
-> 7. Header Component (19:52) ```ng generate component component/header ```
-> 8. Button Component (23:26) ```ng generate component component/button ```
+> 7. Header Component (19:52) ```ng generate component components/header ```
+> 8. Button Component (23:26) ```ng generate component components/button ```
 > 9. Mock Tasks and Task Interface 
-> 10. Tasks Component (34.24) - Figure 10.1 ```ng generate component component/tasks ```
+> 10. Tasks Component (34.24) - Figure 10.1 ```ng generate component components/tasks ```
 > 11. Task Item Component (37:24) ```ng generate component component/task-item```
 > 12. Angular Font Awesome (41:03) - Figure 12.1 [GitHub](https://github.com/FortAwesome/angular-fontawesome)
 > 13. Task Service (44:40) Assignment Directly - ```ng generate service services/task ```
@@ -69,6 +71,7 @@ $ json-server --watch db.json --port 5000
 > 15. JSON Server Setup (52:27) - ```npm i json-server``` makes local server ``` server : json-server --watch db.json --port 5000``` which set in the package.json.  To run the server is ```npm run server```  see Figure 15.1
 > 16. Deleting Tasks (1:03:59)
 > 17. Toggle Reminder (1:14:15) - ngClass is directive to conditionally apply one-to-many classes. When the users double clicks the tracker item the reminder will be turn off/on. 
+> 18. Add Task Component (1:20:35) - ```ng generate component components/add-task ``` Figure 18.1
 ### Screen Shots
 
 #### Figure 10.1       
@@ -86,6 +89,12 @@ style="width:425px;height:250px;">
 #### Figure 15.1
 <img
 src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/tasksJsonServer.png"
+alt="Tasks Json Server"
+style="width:275px;height:425px;">
+
+#### Figure 18.1
+<img
+src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/addTask.jpg"
 alt="Tasks Json Server"
 style="width:275px;height:425px;">
 
