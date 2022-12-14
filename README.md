@@ -36,5 +36,15 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * Main Branch - Building Main JavaScript Training Project 
 > 1. Installing Bootstrap 5
 > 2. Installing JQuery
+> 3. Header Component - ```ng generate component components/header```
 
 ### Problems
+ERROR
+
+src/app/app.component.html:1:1 - error NG8001: 'app-header' is not a known element:
+1. If 'app-header' is an Angular component, then verify that it is part of this module.
+2. If 'app-header' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
+
+SOLUTION 
+
+[Angular Error NG8001: is not a known element Angular component, then verify part of this module](https://www.youtube.com/watch?v=EcIXA-DptI4)
