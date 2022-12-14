@@ -33,6 +33,20 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * [How to Style Components Using Angular ngClass](https://www.pluralsight.com/guides/how-to-style-components-using-angular-ngclass?aid=7014Q000002DU4oQAG&promo=&oid=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=US_Dynamic_ProgrammingLanguages&utm_content=&utm_term=17331039103&gclid=CjwKCAiAv9ucBhBXEiwA6N8nYFDfe7p7VhcUMzA_lAwfPF51xVUuXhHISzesCv0toFMj2dBd-hTrqBoC9JQQAvD_BwE)
 
 ### Getting Start
+
+#### Applications Screen Shots
+<img
+src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/finalTrackerScreenShot.png"
+alt="Task Tracker Screen Shot"
+style="width:425px;height:250px;">
+
+<img
+src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/finalAboutScreenShot.png"
+alt="Task Tracker Screen Shot"
+style="width:425px;height:250px;">
+
+
+#### Start Application
 Start the Database Server
 ```
 $ json-server --watch db.json --port 5000
