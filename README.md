@@ -37,7 +37,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ### Branch
 
-* Main Branch - Prototype functionality before work on project
+* Setup Branch - Prototype functionality before work on project
 > 1. Installing Bootstrap 5 
 > 2. Creating library files
 > 3. Installing JQuery
