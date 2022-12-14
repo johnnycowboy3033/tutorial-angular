@@ -1,4 +1,6 @@
 import { Component, OnInit, Output, EventEmitter } from '@angular/core';
+import { UiService } from '../../services/ui.service';
+import { Subscription } from 'rxjs';
 import { Task } from '../../Task';
 
 @Component({
@@ -11,7 +13,21 @@ export class AddTaskComponent {
   text: string = "";
   day: string = "";
   reminder: boolean = false;
+  showAddTask: boolean | undefined;
+  subscription: Subscription| undefined;
 
+  constructor(private uiService: UiService) {
+    this.subscription = this.uiService
+      .onToggle()
+      .subscribe((value) => (this.showAddTask = value));
+  }
+
+  ngOnInit(): void {}
+
+  ngOnDestroy() {
+    // Unsubscribe to ensure no memory leaks
+    //this.subscription.unsubscribe();
+  }
   onSubmit() {
     if (!this.text) {
       alert('Please add a task!');
