@@ -73,6 +73,7 @@ $ ng test
 > 17. Toggle Reminder (1:14:15) - ngClass is directive to conditionally apply one-to-many classes. When the users double clicks the tracker item the reminder will be turn off/on. 
 > 18. Add Task Component (1:20:35) - ```ng generate component components/add-task ``` Figure 18.1
 > 19. UI Service (1:37:02) - The UI Service will use a button to show/hide the add task tracker form. Subject takes the notifications from a single source observable and forwarding them to one or more destination observers. ```ng generate service services/ui ```
+> 20. Route (1:51:34) - ```ng generate component components/about ``` and ```ng generate component components/footer ```
 ### Screen Shots
 
 #### Figure 10.1       
