@@ -36,13 +36,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 #### Applications Screen Shots
 <img
-src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/finalTrackerScreenShot.png"
+src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/finalTrackerScreenShot.jpg"
 alt="Task Tracker Screen Shot"
 style="width:425px;height:250px;">
 
 <img
-src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/finalAboutScreenShot.png"
-alt="Task Tracker Screen Shot"
+src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/finalAboutScreenShot.jpg"
+alt="About Screen Shot"
 style="width:425px;height:250px;">
 
 
