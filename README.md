@@ -38,7 +38,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 <img
 src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/finalTrackerScreenShot.jpg"
 alt="Task Tracker Screen Shot"
-style="width:425px;height:250px;">
+style="width:425px;height:550px;">
 
 <img
 src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/finalAboutScreenShot.jpg"
