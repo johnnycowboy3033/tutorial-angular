@@ -7,14 +7,6 @@ import * as $ from "jquery";
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'practice-js';
+  title = 'Practice JavaScript';
 
-  name: string = 'Hello';
-
-
-
-  Testing(){
-    let nameForm= $("#txtName").val();
-    alert(nameForm);
-  }
 }

@@ -3,7 +3,6 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 import {FormsModule} from "@angular/forms";
-import {ShowArraysModule} from "../../projects/show-arrays/src/lib/show-arrays.module";
 
 @NgModule({
   declarations: [
@@ -11,8 +10,7 @@ import {ShowArraysModule} from "../../projects/show-arrays/src/lib/show-arrays.m
   ],
     imports: [
         BrowserModule,
-        FormsModule,
-        ShowArraysModule
+        FormsModule
     ],
   providers: [],
   bootstrap: [AppComponent]
