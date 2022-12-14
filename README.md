@@ -33,7 +33,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ### Branches
 
-* Main Branch - Building Main Project
+* Main Branch - Building Main JavaScript Training Project 
 > 1. Installing Bootstrap 5
 > 2. Installing JQuery
 
