@@ -11,11 +11,13 @@ import { FooterComponent } from './components/footer/footer.component';
 import { WelcomeComponent } from './components/welcome/welcome.component';
 import { AboutComponent } from './components/about/about.component';
 import { FaqsComponent } from './components/faqs/faqs.component';
+import { CopywithinComponent } from './components/array/copywithin/copywithin.component';
 
 const appRoutes: Routes = [
   { path: '', component: WelcomeComponent },
   { path: 'about', component: AboutComponent },
   { path: 'faqs', component: FaqsComponent },
+  { path: 'array/copywithin', component: CopywithinComponent },
 ];
 
 @NgModule({
@@ -26,7 +28,8 @@ const appRoutes: Routes = [
     FooterComponent,
     WelcomeComponent,
     AboutComponent,
-    FaqsComponent
+    FaqsComponent,
+    CopywithinComponent
   ],
     imports: [
         BrowserModule,
