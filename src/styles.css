@@ -11,6 +11,12 @@ h1{
   font-family: "Tahoma";
 }
 
+h2{
+  color: #cc33ff;
+  margin: 10px;
+  font-family: "Tamil Sangam MN";
+}
+
 p{
   margin: 20px;
 }

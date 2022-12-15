@@ -47,6 +47,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > 11. Show States Component - ```ng generate component components/array/show-states ```
 
 ### Problems
+
+### Error NG8001      
 ERROR
 
 src/app/app.component.html:1:1 - error NG8001: 'app-header' is not a known element:
@@ -56,3 +58,7 @@ src/app/app.component.html:1:1 - error NG8001: 'app-header' is not a known eleme
 SOLUTION 
 
 [Angular Error NG8001: is not a known element Angular component, then verify part of this module](https://www.youtube.com/watch?v=EcIXA-DptI4)
+
+### Error TS2322     
+
+[Correct way to initialize input fields for reactive forms & have the control valid](https://stackoverflow.com/questions/52378087/correct-way-to-initialize-input-fields-for-reactive-forms-have-the-control-val)
