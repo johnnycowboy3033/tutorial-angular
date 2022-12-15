@@ -38,6 +38,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > 2. Installing JQuery
 > 3. Header Component - ```ng generate component components/header```
 > 4. Navigation Bar Component - ```ng generate component components/navbar```
+> 5. Footer Component - ```ng generate component components/footer```
 
 ### Problems
 ERROR
