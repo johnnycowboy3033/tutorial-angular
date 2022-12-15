@@ -12,6 +12,8 @@ import { WelcomeComponent } from './components/welcome/welcome.component';
 import { AboutComponent } from './components/about/about.component';
 import { FaqsComponent } from './components/faqs/faqs.component';
 import { CopywithinComponent } from './components/array/copywithin/copywithin.component';
+import { InitializeComponent } from './components/array/initialize/initialize.component';
+import { ShowStatesComponent } from './components/array/show-states/show-states.component';
 
 const appRoutes: Routes = [
   { path: '', component: WelcomeComponent },
@@ -29,7 +31,9 @@ const appRoutes: Routes = [
     WelcomeComponent,
     AboutComponent,
     FaqsComponent,
-    CopywithinComponent
+    CopywithinComponent,
+    InitializeComponent,
+    ShowStatesComponent
   ],
     imports: [
         BrowserModule,
