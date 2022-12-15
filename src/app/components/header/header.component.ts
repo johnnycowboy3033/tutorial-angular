@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./header.component.css']
 })
 export class HeaderComponent {
-  title = 'Practice JavaScript';
+  title = 'Practice JavaScript with Johnny Boy 3033';
 }

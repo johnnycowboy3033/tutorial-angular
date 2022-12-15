@@ -39,6 +39,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > 3. Header Component - ```ng generate component components/header```
 > 4. Navigation Bar Component - ```ng generate component components/navbar```
 > 5. Footer Component - ```ng generate component components/footer```
+> 6. Welcome Component - ```ng generate component components/welcome```
+> 7. About Component - ```ng generate component components/about```
+> 8.  Faqs Component - ```ng generate component components/faqs```
 
 ### Problems
 ERROR
