@@ -29,9 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Developers Notes
 ### References
-
 ### Screen Shots
-<img
-src="https://github.com/johnnycowboy3033/github-resources/blob/main/tutorial-angular/master/main_screen.jpg"
-alt="Main Screen."
-style="width:300px;height:200px;">
