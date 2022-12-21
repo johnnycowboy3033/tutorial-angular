@@ -34,4 +34,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 <img
 src="https://github.com/johnnycowboy3033/github-resources/blob/main/tutorial-angular/master/main_screen.jpg"
 alt="Main Screen."
-style="width:775px;height:600px;">
+style="width:300px;height:200px;">
