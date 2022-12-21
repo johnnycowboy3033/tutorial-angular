@@ -31,6 +31,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Developers Notes
 ### References
 
+### Screen Shots            
+<img
+src="https://github.com/johnnycowboy3033/github-resources/blob/main/tutorial-angular/main/main_screen.jpg"
+alt="Main Screen."
+style="width:500px;height:500px;">
+
 ### Branches
 
 * Main Branch - Building Main JavaScript Training Project 
