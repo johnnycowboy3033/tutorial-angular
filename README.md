@@ -35,7 +35,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 <img
 src="https://github.com/johnnycowboy3033/github-resources/blob/main/tutorial-angular/main/main_screen.jpg"
 alt="Main Screen."
-style="width:500px;height:500px;">
+style="width:775px;height:600px;">
 
 ### Branches
 
