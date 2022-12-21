@@ -42,9 +42,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > 6. Welcome Component - ```ng generate component components/welcome```
 > 7. About Component - ```ng generate component components/about```
 > 8.  Faqs Component - ```ng generate component components/faqs```
-> 9.  Copy Within Component - ```ng generate component components/array/copywithin```
-> 10. Initialize Component - ```ng generate component components/array/initialize ```
-> 11. Show States Component - ```ng generate component components/array/show-states ```
+
 
 ### Problems
 
