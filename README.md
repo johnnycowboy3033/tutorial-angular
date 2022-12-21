@@ -36,12 +36,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 #### Applications Screen Shots
 <img
-src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/finalTrackerScreenShot.jpg"
+src="https://github.com/johnnycowboy3033/github-resources/blob/main/tutorial-angular/traversy/finalTrackerScreenShot.jpg"
 alt="Task Tracker Screen Shot"
 style="width:425px;height:550px;">
 
 <img
-src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/finalAboutScreenShot.jpg"
+src="https://github.com/johnnycowboy3033/github-resources/blob/main/tutorial-angular/traversy/finalAboutScreenShot.jpg"
 alt="About Screen Shot"
 style="width:425px;height:250px;">
 
@@ -92,25 +92,25 @@ $ ng test
 
 #### Figure 10.1       
 <img 
-  src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/TaskTrackerScreenShot.png" 
+  src="https://github.com/johnnycowboy3033/github-resources/blob/main/tutorial-angular/traversy/TaskTrackerScreenShot.png" 
   alt="Task Tracker Screen Shot" 
   style="width:425px;height:250px;">  
 
 #### Figure 12.1
 <img
-src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/servableSubscribe.png"
+src="https://github.com/johnnycowboy3033/github-resources/blob/main/tutorial-angular/traversy/servableSubscribe.png"
 alt="Observable Subscribe"
 style="width:425px;height:250px;">
 
 #### Figure 15.1
 <img
-src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/tasksJsonServer.png"
+src="https://github.com/johnnycowboy3033/github-resources/blob/main/tutorial-angular/traversy/tasksJsonServer.png"
 alt="Tasks Json Server"
 style="width:275px;height:425px;">
 
 #### Figure 18.1
 <img
-src="https://github.com/johnnycowboy3033/github-resources/blob/main/practice-js/traversy/addTask.jpg"
+src="https://github.com/johnnycowboy3033/github-resources/blob/main/tutorial-angular/traversy/addTask.jpg"
 alt="Tasks Json Server"
 style="width:275px;height:425px;">
 
