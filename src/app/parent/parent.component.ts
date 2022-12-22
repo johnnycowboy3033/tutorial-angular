@@ -5,11 +5,13 @@ import { Component } from '@angular/core';
   template: `
     <div id="parent">
       <h1>Parent</h1>
-      <app-child></app-child>
+      <app-child [message]="message"></app-child>
     </div>
   `,
   styleUrls: ['./parent.component.css']
 })
 export class ParentComponent {
+
+  message = "Hello World"
 
 }
