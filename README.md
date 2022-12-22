@@ -54,3 +54,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
    src="https://github.com/johnnycowboy3033/github-resources/blob/main/tutorial-angular/3_Sharing_Data_between_Components.jpg"
    alt="3_Sharing_Data_between_Components"
    style="width:775px;height:600px;">
+4. 4_Sharing_Data_between_Components                 
+      <img
+      src="https://github.com/johnnycowboy3033/github-resources/blob/main/tutorial-angular/4_Sharing_Data_between_Components.jpg"
+      alt="4_Sharing_Data_between_Components"
+      style="width:775px;height:600px;">
