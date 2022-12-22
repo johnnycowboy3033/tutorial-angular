@@ -5,11 +5,18 @@ import { Component } from '@angular/core';
   template: `
     <div id="parent">
       <h1>Parent</h1>
-      <app-child></app-child>
+      Say {{message}}
+      <app-child (messageEvent)="receiveMessage($event)"></app-child>
     </div>
   `,
   styleUrls: ['./parent.component.css']
 })
 export class ParentComponent {
+
+  message = '';
+
+  receiveMessage($event: any){
+      this.message = $event;
+  }
 
 }
