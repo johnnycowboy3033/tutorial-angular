@@ -35,6 +35,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ### Branches
 >1. 1_Sharing_Data_between_Components (0:00) - parent => child  via Input()
 >2. 2_Sharing_Data_between_Components (0:43) - child =>parent via Output()
+>3. 3_Sharing_Data_between_Components (2:14) - child => parent via ViewChild()
 
 ### Screen Shots
 1. 1_Sharing_Data_between_Components              
@@ -46,4 +47,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
    <img
    src="https://github.com/johnnycowboy3033/github-resources/blob/main/tutorial-angular/2_Sharing_Data_between_Components.jpg"
    alt="2_Sharing_Data_between_Components"
+   style="width:775px;height:600px;">
+3. 3_Sharing_Data_between_Components
+   <img
+   src="https://github.com/johnnycowboy3033/github-resources/blob/main/tutorial-angular/3_Sharing_Data_between_Components.jpg"
+   alt="3_Sharing_Data_between_Components"
    style="width:775px;height:600px;">
