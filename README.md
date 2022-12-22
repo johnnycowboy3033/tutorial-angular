@@ -28,5 +28,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Developers Notes
+
 ### References
+* [Sharing Data between Components in Angular - fireship](https://www.youtube.com/watch?v=I317BhehZKM)
+
+### Branches
+>1. 1_Sharing_Data_between_Components (0:00) -
+
 ### Screen Shots
