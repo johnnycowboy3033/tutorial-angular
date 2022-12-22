@@ -33,8 +33,17 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * [Sharing Data between Components in Angular - fireship](https://www.youtube.com/watch?v=I317BhehZKM)
 
 ### Branches
->1. 1_Sharing_Data_between_Components (0:00) - parent => child  via Input() 
->2. 2_Sharing_Data_between_Components (0:43) - child =>parent via Output() 
->3. 3_Sharing_Data_between_Components
+>1. 1_Sharing_Data_between_Components (0:00) - parent => child  via Input()
+>2. 2_Sharing_Data_between_Components (0:43) - child =>parent via Output()
 
 ### Screen Shots
+1. 1_Sharing_Data_between_Components              
+   <img
+   src="https://github.com/johnnycowboy3033/github-resources/blob/main/tutorial-angular/1_Sharing_Data_between_Componentsv1.jpg"
+   alt="1_Sharing_Data_between_Components"
+   style="width:775px;height:600px;">
+2. 2_Sharing_Data_between_Components                 
+   <img
+   src="https://github.com/johnnycowboy3033/github-resources/blob/main/tutorial-angular/2_Sharing_Data_between_Components.jpg"
+   alt="2_Sharing_Data_between_Components"
+   style="width:775px;height:600px;">
