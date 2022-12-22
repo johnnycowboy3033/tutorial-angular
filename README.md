@@ -34,6 +34,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ### Branches
 >1. 1_Sharing_Data_between_Components (0:00) - parent => child  via Input() 
->2. 1_Sharing_Data_between_Components (0:43) - child =>parent via Output() 
+>2. 2_Sharing_Data_between_Components (0:43) - child =>parent via Output() 
 
 ### Screen Shots
