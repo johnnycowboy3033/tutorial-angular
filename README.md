@@ -36,6 +36,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 >1. 1_Sharing_Data_between_Components (0:00) - parent => child  via Input()
 >2. 2_Sharing_Data_between_Components (0:43) - child =>parent via Output()
 >3. 3_Sharing_Data_between_Components (2:14) - child => parent via ViewChild()  
+>4. 4_Sharing_Data_between_Components (3:03) - any => any via a shared service 
 
 ### Screen Shots
 1. 1_Sharing_Data_between_Components              
