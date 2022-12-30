@@ -1,4 +1,4 @@
-# PracticeJs
+# BlackProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
 
@@ -14,7 +14,6 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-To uses hot load to continues rebuild a library uses the following command `ng build <library name> --watch`
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
@@ -29,9 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Developers Notes
 ### References
-* [Angular Unit testing- 19 | Unit testing Reactive Forms | Form Control | Part 1](https://www.youtube.com/watch?v=TzpwwAB3RfQ)
-
 ### Screen Shots
 ### Branches
 ### Problems
-
