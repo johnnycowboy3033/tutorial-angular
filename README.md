@@ -27,42 +27,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-
 ## Developers Notes
 ### References
+* [Angular Unit testing- 19 | Unit testing Reactive Forms | Form Control | Part 1](https://www.youtube.com/watch?v=TzpwwAB3RfQ)
 
-### Screen Shots            
-<img
-src="https://github.com/johnnycowboy3033/github-resources/blob/main/tutorial-angular/main/main_screen.jpg"
-alt="Main Screen."
-style="width:775px;height:600px;">
-
+### Screen Shots
 ### Branches
-
-* Main Branch - Building Main JavaScript Training Project 
-> 1. Installing Bootstrap 5
-> 2. Installing JQuery
-> 3. Header Component - ```ng generate component components/header```
-> 4. Navigation Bar Component - ```ng generate component components/navbar```
-> 5. Footer Component - ```ng generate component components/footer```
-> 6. Welcome Component - ```ng generate component components/welcome```
-> 7. About Component - ```ng generate component components/about```
-> 8.  Faqs Component - ```ng generate component components/faqs```
-
-
 ### Problems
 
-### Error NG8001      
-ERROR
-
-src/app/app.component.html:1:1 - error NG8001: 'app-header' is not a known element:
-1. If 'app-header' is an Angular component, then verify that it is part of this module.
-2. If 'app-header' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
-
-SOLUTION 
-
-[Angular Error NG8001: is not a known element Angular component, then verify part of this module](https://www.youtube.com/watch?v=EcIXA-DptI4)
-
-### Error TS2322     
-
-[Correct way to initialize input fields for reactive forms & have the control valid](https://stackoverflow.com/questions/52378087/correct-way-to-initialize-input-fields-for-reactive-forms-have-the-control-val)
